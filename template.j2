@@ -1,0 +1,71 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>Mia's First Year</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville||Roboto+Condensed" rel="stylesheet">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/black.css">
+    <link rel="stylesheet" href="css/book.css">
+
+    <!-- Printing and PDF exports -->
+    <script>
+        var link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+        {% for image in images %}
+            <section>
+                <div class="gallery">
+                    <img 
+                        style="transform: rotate({{image.rotate}}deg);"
+                        data-width={{image.size[0]}} 
+                        data-height={{image.size[1]}} 
+                        src="img/{{ image.name }}" />
+                </div>
+                <div class="story">
+                    <p>
+                    {{ image.description }}
+                    </p>
+                </div>
+                <p class="footer">
+                    <span class="created_at">{{ image.created_at }}</span>
+                    <span class="location" data-gps="{{ image.location }}">{{image.location}} </span>
+                </p>
+            </section>
+        {% endfor %}
+        </div>
+    </div>
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.js"></script>
+
+    <script>
+        // More info about config & dependencies:
+        // - https://github.com/hakimel/reveal.js#configuration
+        // - https://github.com/hakimel/reveal.js#dependencies
+        Reveal.initialize({
+            width: 680,
+            height: 912,
+            margin: 0,
+
+            controls: false,
+            center: false,
+
+            dependencies: []
+        });
+    </script>
+</body>
+
+</html>
