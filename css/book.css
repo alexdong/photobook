@@ -1,0 +1,57 @@
+.slides {
+    background-color: white;
+}
+
+.slides section {
+    width: 680px;
+    height: 912px;
+}
+
+.slides section img {
+    border: none;
+    box-shadow: none;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.slides section p {
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: 16px;
+}
+
+.slides section>div {
+    position: relative;
+}
+
+.slides section .left-page {
+    padding-right: 30px;
+}
+
+.slides section .right-page {
+    padding-left: 30px;
+}
+
+.slides section .single-vertical img {
+    display: block;
+    width: 480px;
+    height: 640px;
+}
+
+.slides section .single-vertical p {
+    display: block;
+    width: 480px;
+    height: calc(912px - 640px);
+    padding-top: 20px;
+    text-align: left;
+}
+
+.slides section .single-horizontal img {
+    padding-right: 0;
+}
+
+.slides section .single-horizontal p {
+    width: 32%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
