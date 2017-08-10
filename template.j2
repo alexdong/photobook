@@ -25,23 +25,25 @@
 <body>
     <div class="reveal">
         <div class="slides">
-        {% for image in images %}
+        {% for page in pages %}
             <section>
-                <div class="gallery">
+                <div class="gallery {% if page.images|length > 1 %}multi-photos two-photos {% endif %}">
+                {% for image in page.images %}
                     <img 
                         style="transform: rotate({{image.rotate}}deg);"
                         data-width={{image.size[0]}} 
                         data-height={{image.size[1]}} 
                         src="img/{{ image.name }}" />
+                {% endfor %}
                 </div>
                 <div class="story">
                     <p>
-                    {{ image.description }}
+                    {{ page.description }}
                     </p>
                 </div>
                 <p class="footer">
-                    <span class="created_at">{{ image.created_at }}</span>
-                    <span class="location" data-gps="{{ image.location }}">{{image.location}} </span>
+                    <span class="created_at">{{ page.created_at }}</span>
+                    <span class="location" data-gps="{{ page.location }}">{{page.location}} </span>
                 </p>
             </section>
         {% endfor %}

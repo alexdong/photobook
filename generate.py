@@ -73,27 +73,28 @@ def get_images():
 
 
 if __name__ == '__main__':
-    # load stories for each image
-    db = json.loads(open('db.json').read())
-
-    # load images
-    images = []
+    # load images from disk. Key is filename that's used in `db.images`.
+    images = {}
     for (fname, im) in get_images():
         exif=im._getexif()
-        story = db.get(fname, {})
-
-        created_at = story.get('created_at', "")
-        if not created_at:
-            created_at = get_origin_time(exif)[0];
-        images.append({
+        created_at = get_origin_time(exif)[0]
+        images[fname] = {
             'name': fname,
             'size': im.size,
             'rotate': get_rotate_degree(exif),
             'created_at': get_origin_time(exif)[0],
-            'location': json.dumps(get_lat_lon(exif)),
-            'description': story.get('description', "")
-        })
+            'location': json.dumps(get_lat_lon(exif))
+        }
+
+    # load db for all pages. Each page contains `images` and `description`.
+    pages = json.loads(open('pages.json').read())
+    for page in pages:
+        page['images'] = [images[fname] for fname in page['images']]
+        if 'created_at' not in page:
+            page['created_at'] = page['images'][0]['created_at']
+        if 'location' not in page:
+            page['location'] = page['images'][0]['location']
 
     # print(images)
     tmpl = Template(open('./template.j2').read())
-    open('index.html', 'w').write(tmpl.render(images=images))
+    open('index.html', 'w').write(tmpl.render(pages=pages))
