@@ -1,21 +1,45 @@
 [{
         "images": ["1.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
+        "description": "You were created on 4th September, 2013. This selfie was taken by mum when you were 5 months into conception. "
     },
     {
-        "images": ["2.JPG"],
-        "description": "Sleep baby, sleep. "
+        "images": ["2a.jpg", "2.JPG"],
+        "description": "What you looked like in 6-week and 20-week ultrasound scan. "
     },
     {
         "images": ["3.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 100th day. To our surprise, you didn't struggle much.  "
+        "description": "Mum, dad and YOU on St Clair beach. Mum was about to get into the third trimester. This photo was shot by grandpa with grandma on the left. "
     },
     {
-        "images": ["4.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
+        "images": ["4a.JPG", "4a0.jpg"],
+        "description": "The water broke 10 days before your due day. Mum went to have a cup of chocolate at Coffee Culture after a quick check up at the hospital. Everyone in the ward said mum had too much smile. It's still not the \"right\" time yet. "
     },
     {
-        "images": ["5.JPG"],
+        "images": ["4b.JPG", "4c.JPG", "4.JPG"],
+        "description": "Checked into the hospital maternity ward. Sign at the entrance of the maternity unit. Each cell lists the mum's name. Dad was bored while waiting so he added his and your name on the list. "
+    },
+    {
+        "images": ["4d.JPG", "4e.JPG"],
+        "description": "The pain kicked in finally. It took forever for mum to get to even an 1-cm dilation. "
+    },
+    {
+        "images": ["4f.JPG", "4g.JPG", "4h.JPG"],
+        "description": "Epidural to the rescue."
+    },
+    {
+        "images": ["5b.JPG"],
+        "description": "The first family photo with your midwife Sally. "
+    },
+    {
+        "images": ["5d.JPG"],
+        "description": "It didn't take you long to find nipple and started sucking. "
+    },
+    {
+        "images": ["5c.JPG"],
+        "description": "Daddy cut the cord."
+    },
+    {
+        "images": ["5.JPG", "5a.JPG"],
         "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
     },
     {
@@ -28,128 +52,181 @@
     },
     {
         "images": ["8.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 100th day. To our surprise, you didn't struggle much.  "
+        "description": "Your first wake-up in hospital. Announcing your own arrival. "
     },
     {
-        "images": ["9.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
-    },
-    {
-        "images": ["10.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["11.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
+        "images": ["12a.JPG"],
+        "description": "Aldo, Zoe, Finn and Cam came in to pay a visit. Zoe, who wasn't in the photos, took several precious photos of us in the hospital. For example, the next one."
     },
     {
         "images": ["12.JPG"],
-        "description": "Sleep baby, sleep. "
+        "description": "Shortly after your woke up, you gave the first poo. Yuck! "
     },
     {
-        "images": ["13.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 100th day. To our surprise, you didn't struggle much.  "
+        "images": ["9.JPG"],
+        "description": "The first night when dad held your little finger. "
+    },
+    {
+        "images": ["10.JPG"],
+        "description": "Sally came to take blood samples. This was the first day you were back home."
+    },
+    {
+        "images": ["9a.JPG"],
+        "description": "Back home from hospital. The first week was mostly sleeping and you mulching on mum's milk."
+    },
+    {
+        "images": ["11.JPG"],
+        "description": "Do you know how hard it was to bundle you up. One of your arms would almost always escape and fling around. "
+    },
+    {
+        "images": ["8a.JPG"],
+        "description": "Your first week at home. Meg gifted this wrapper as soon as you came back home."
+    },
+    {
+        "images": ["8c.JPG"],
+        "description": "We first tried to put you in the little bassinet that Aldo gifted us. We can take it everywhere we go so it was quite convinient but apparently you didn't like it. "
+    },
+    {
+        "images": ["8b.JPG"],
+        "description": "Then we tried this little bed. The theory goes that the strings that hang the little mattress will swing itself, which would help with self-soothing. No, you weren't keen either."
+    },
+    {
+        "images": ["13.JPG", "13a.JPG"],
+        "description": "Your first bath at home. Look how tiny you were!"
+    },
+    {
+        "images": ["13b.JPG"],
+        "description": "Mum always loved how you would curl up against her chest."
     },
     {
         "images": ["14.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
+        "description": "11 days after mum's last cup of chocolate at Roslyn. This was also your first outing since coming back home. "
     },
     {
         "images": ["15.JPG"],
-        "description": "Sleep baby, sleep. "
+        "description": "Little pirate."
     },
     {
         "images": ["16.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
+        "description": "The first time you look like a little girl. "
     },
     {
         "images": ["17.JPG"],
-        "description": "Sleep baby, sleep. "
+        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
     },
     {
         "images": ["18.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 100th day. To our surprise, you didn't struggle much.  "
+        "description": "Full of energy. This is also your favourite body position to throw a tantrum. "
     },
     {
         "images": ["19.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
+        "description": "Your tiny little foot in mum's hand."
     },
 
     {
         "images": ["20.JPG"],
-        "description": "Sleep baby, sleep. "
+        "description": "Happy baby. Happy daddy. "
     },
     {
-        "images": ["21.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 21am in the middle of the day. "
+        "images": ["21.JPG", "21c.JPG"],
+        "description": "Daddy's little hippo. Fresh after shower."
+    },
+    {
+        "images": ["21a.JPG", "21b.JPG"],
+        "description": "Sharon helped mum with pre-natal depression. This is her first time meeting you."
     },
     {
         "images": ["22.JPG"],
-        "description": "Sleep baby, sleep. "
+        "description": "Lttle sleeping bear. "
     },
     {
         "images": ["23.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 200th day. To our surprise, you didn't struggle much.  "
+        "description": "You preferred shower over bath. Look how tiny you were!"
     },
     {
-        "images": ["24.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 21am in the middle of the day. "
+        "images": ["23a.JPG", "23b.JPG"],
+        "description": "Mum is always gentler when it comes to help you burp."
+    },
+    {
+        "images": ["23c.JPG", "23d.JPG"],
+        "description": "Daddy always loved to see you snuggling up, nice and cozy. "
+    },
+    {
+        "images": ["23m.JPG", "23n.JPG"],
+        "description": "You lifted your legs when you were about to turn one month old."
+    },
+    {
+        "images": ["24.JPG", "24a.JPG", "24b.JPG"],
+        "description": "One month old! Rachel Saunders gifted this little dress. This is your first dress up event."
     },
     {
         "images": ["25.JPG"],
-        "description": "Sleep baby, sleep. "
+        "description": "You just smiled back to daddy! "
     },
     {
-        "images": ["26.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 21am in the middle of the day. "
+        "images": ["25a.JPG", "25b.JPG", "25c.JPG"],
+        "description": "Your first \"tramping\" trip. This was also mum's first time having a walk outside after giving birth. She felt such a relief to get some fresh air from the ocean. When mum was pregnant with you, one of her main exercise activities was to come here and walk for a couple hundred of meters before she was exhausted and had to return. "
     },
     {
-        "images": ["27.JPG"],
-        "description": "Sleep baby, sleep. "
+        "images": ["26.JPG", "26a.JPG", "26b.JPG"],
+        "description": "Your first immunisation vaccination shot at the Maori Hill Clinic. You wore a little glove so that you wouldn't scratch yourself after the injection."
     },
     {
-        "images": ["28.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 200th day. To our surprise, you didn't struggle much.  "
+        "images": ["27.JPG", "27a.JPG"],
+        "description": "Your first time on daddy's chair. "
+    },
+    {
+        "images": ["28.JPG", "28a.JPG"],
+        "description": "Mum's first birthday as a mum. The whole family went to Nova to celebrate."
     },
     {
         "images": ["29.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 21am in the middle of the day. "
+        "description": "Mum thought you wanted to fly. "
     },
 
     {
         "images": ["30.JPG"],
-        "description": "Sleep baby, sleep. "
+        "description": "First time you looked at iPhone with mummy. "
     },
     {
         "images": ["31.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 31am in the middle of the day. "
+        "description": "Your first high temperature after the immunisation vaccination. We also went to the antenatal class reunion to see a roomful of babies."
     },
     {
         "images": ["32.JPG"],
-        "description": "Sleep baby, sleep. "
+        "description": "Macintosh was kept out of the room for most of the early days. But he was very interested in checking out this little baby."
     },
     {
         "images": ["33.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 300th day. To our surprise, you didn't struggle much.  "
+        "description": "Daddy played the music box from Aldo and you liked it very much. "
+    },
+    {
+        "images": ["33a.JPG"],
+        "description": "Snowday. Daddy took you out to have a walk and the camera man from ODT took this photo for us. "
     },
     {
         "images": ["34.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 31am in the middle of the day. "
+        "description": "Mum thinks you looked like a little landlord.",
+        "created_at": "2014-08-13 20:21:00"
     },
     {
         "images": ["35.JPG"],
         "description": "Sleep baby, sleep. "
     },
     {
-        "images": ["36.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 31am in the middle of the day. "
+        "images": ["36a.JPG", "36b.JPG", "36c.JPG", "36.JPG"],
+        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 100th day. To our surprise, you didn't struggle much.  "
+    },
+    {
+        "images": ["36d.JPG", "36e.JPG"],
+        "description": "Your first visit to the library's wriggle and rythm session. Do you still remember the song \"It's time for us to say goodbye. It's time for us to go. Music can be so much fun. And ideas grow and grow. \""
     },
     {
         "images": ["37.JPG"],
         "description": "Sleep baby, sleep. "
     },
     {
-        "images": ["38.JPG"],
+        "images": ["38.JPG", "38a.JPG", "38b.JPG"],
         "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 300th day. To our surprise, you didn't struggle much.  "
     },
     {
@@ -159,163 +236,11 @@
 
 
     {
-        "images": ["40.JPG", "41.JPG"],
+        "images": ["41a.JPG", "41b.JPG", "41c.JPG"],
         "description": "Your first train ride."
     },
     {
-        "images": ["42.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["43.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 400th day. To our surprise, you didn't struggle much.  "
-    },
-    {
-        "images": ["44.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 41am in the middle of the day. "
-    },
-    {
-        "images": ["45.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["46.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 41am in the middle of the day. "
-    },
-    {
-        "images": ["47.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["48.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 400th day. To our surprise, you didn't struggle much.  "
-    },
-    {
-        "images": ["49.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 41am in the middle of the day. "
-    },
-
-
-    {
-        "images": ["50.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["51.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 51am in the middle of the day. "
-    },
-    {
-        "images": ["52.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["53.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 500th day. To our surprise, you didn't struggle much.  "
-    },
-    {
-        "images": ["54.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 51am in the middle of the day. "
-    },
-    {
-        "images": ["55.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["56.JPG", "57.JPG", "58.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["59.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 51am in the middle of the day. "
-    },
-
-    {
-        "images": ["60.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["61.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 61am in the middle of the day. "
-    },
-    {
-        "images": ["62.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["63.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 600th day. To our surprise, you didn't struggle much.  "
-    },
-    {
-        "images": ["64.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 61am in the middle of the day. "
-    },
-    {
-        "images": ["65.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["66.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 61am in the middle of the day. "
-    },
-    {
-        "images": ["67.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["68.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 600th day. To our surprise, you didn't struggle much.  "
-    },
-    {
-        "images": ["69.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 61am in the middle of the day. "
-    },
-
-    {
-        "images": ["70.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["71.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 71am in the middle of the day. "
-    },
-    {
-        "images": ["72.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["73.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 700th day. To our surprise, you didn't struggle much.  "
-    },
-    {
-        "images": ["74.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 71am in the middle of the day. "
-    },
-    {
-        "images": ["75.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["76.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 71am in the middle of the day. "
-    },
-    {
-        "images": ["77.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["78.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 700th day. To our surprise, you didn't struggle much.  "
-    },
-    {
-        "images": ["79.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 71am in the middle of the day. "
-    },
-    {
-        "images": ["80.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["81.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 700th day. To our surprise, you didn't struggle much.  "
+        "images": ["40.JPG"],
+        "description": "Your first train ride."
     }
 ]

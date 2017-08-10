@@ -1,3 +1,8 @@
+.reveal .progress {
+    height: 10px;
+    cursor: pointer;
+}
+
 .slides {
     background-color: white;
 }

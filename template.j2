@@ -29,11 +29,14 @@
             <section>
                 <div class="gallery {% if page.images|length > 1 %}multi-photos two-photos {% endif %}">
                 {% for image in page.images %}
+                <figure>
                     <img 
                         style="transform: rotate({{image.rotate}}deg);"
                         data-width={{image.size[0]}} 
                         data-height={{image.size[1]}} 
                         src="img/{{ image.name }}" />
+                    <figcaption>{{image.name}}</figcaption>
+                </figure>
                 {% endfor %}
                 </div>
                 <div class="story">

@@ -90,6 +90,7 @@ if __name__ == '__main__':
     pages = json.loads(open('pages.json').read())
     for page in pages:
         page['images'] = [images[fname] for fname in page['images']]
+        print(page['images'])
         if 'created_at' not in page:
             page['created_at'] = page['images'][0]['created_at']
         if 'location' not in page:
