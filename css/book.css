@@ -60,12 +60,11 @@
 .slides section .story {
     max-width: 100%;
     text-align: center;
-    padding: 0 30px;
 }
 
 .slides section .story>p {
     max-width: 70%;
-    margin: 20px auto;
+    margin: 0 auto;
 }
 
 .slides section p.footer .created_at {

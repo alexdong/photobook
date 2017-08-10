@@ -1,50 +1,59 @@
 [{
+        "images": ["1d.JPG", "1e.JPG"],
+        "description": "You were conceived on 4th September, 2013. We didn't find out until the morning of 26th."
+    },
+    {
         "images": ["2a.jpg"],
-        "description": "You were created on 4th September, 2013. The ultrasound scan image was when you were only 6-week \"old\" and tis selfie was taken by mum when you were 5 months into conception. "
+        "description": "With Aldo's recommendation, we signed up Sally McNeil as the midwife. This ultrasound scan image was taken when you were only 6-week \"old\"."
     },
     {
         "images": ["2.JPG", "1.JPG"],
-        "description": "What you looked like in 6-week and 20-week ultrasound scan. "
+        "description": "What you looked like in the 20-week ultrasound scan. "
     },
     {
         "images": ["3.JPG"],
-        "description": "Mum, dad and YOU on St Clair beach. Mum was about to get into the third trimester. This photo was shot by grandpa with grandma on the left. "
+        "description": "Mum, dad and YOU at the St Clair beach. Mum was about to get into the third trimester. This photo was taken by grandpa and grandma, whose shadow can be seen to the left. "
     },
     {
-        "images": [ "1a.JPG", "1b.JPG", "1c.JPG"],
-        "description": "What you looked like in 6-week and 20-week ultrasound scan. "
+        "images": ["1a.JPG", "1b.JPG", "1c.JPG"],
+        "description": "This is how big you had become getting close to the due day. "
     },
     {
         "images": ["4a.JPG", "4a0.jpg"],
-        "description": "The water broke 10 days before your due day. Mum went to have a cup of chocolate at Coffee Culture after a quick check up at the hospital. Everyone in the ward said mum had too much smile. It's still not the \"right\" time yet. "
+        "description": "Mum's water broke 10 days before your due day. After a quick check up at the hospital, mum was quickly discharged because mum had so much smile that it wasn't the \"right\" time yet. After being discharged, mum and dad went to have a cup of chocolate at the Coffee Culture to celebrate.",
+        "created_at": "2014:05:17 15:36:00"
     },
     {
         "images": ["4b.JPG", "4c.JPG", "4.JPG"],
-        "description": "Checked into the hospital maternity ward. Sign at the entrance of the maternity unit. Each cell lists the mum's name. Dad was bored while waiting so he added his and your name on the list. "
+        "description": "You were quiet after the first check up. 48 hours after the water broke, Sally suggested induction of labour in order to minimise the risk of infection. Mum was checked into the Queen's Hospital maternity ward around 6:30 on the 18th so that \"she had plenty of time to give birth to you. \" Mum spent the whole day waiting but there were no sign of you coming.  "
     },
     {
         "images": ["4d.JPG", "4e.JPG"],
-        "description": "The pain kicked in finally. It took forever for mum to get to even an 1-cm dilation. "
+        "description": "After some decent dose of hormone gel, the contraction started the next morning. By the late afternoon, the pain was finally in full swing. However it took forever for mum to get to even an 1-cm dilation. We tried hot bath or walk around to help with the dilation. "
     },
     {
         "images": ["4f.JPG", "4g.JPG", "4h.JPG"],
-        "description": "Epidural to the rescue."
+        "description": "By dinner time, mum finally had about 2cm dilation and that was enough for her to take in some epidural. This process was so painful that mum still winced when she thought of how the labour went. "
     },
     {
         "images": ["5b.JPG"],
-        "description": "The first family photo with your midwife Sally. "
-    },
-    {
-        "images": ["5d.JPG", "5e.JPG"],
-        "description": "It didn't take you long to find nipple and started sucking. Can you see how happy mum was? She was exhausted but she was also so excited to finally meet you. "
+        "description": "The pain disappeared shortly after the epidural injection. The labour started around midnight and it only took an hour and half for mum to deliver you. This is our first family photo."
     },
     {
         "images": ["5c.JPG"],
-        "description": "Daddy cut the cord."
+        "description": "Daddy cutting the umbilical cord. This gives you the belly button. "
     },
     {
-        "images": ["5.JPG", "5a.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 11am in the middle of the day. "
+        "images": ["5e.JPG", "5.JPG"],
+        "description": "These were the first photos of you. Fresh from the womb.  Can you see how happy mum was? She was exhausted but she was also so excited to finally meet you."
+    },
+    {
+        "images": ["5d.JPG"],
+        "description": "After being weighted and cleaned, you were handed back to mum. It didn't take you long at all to find the nipples and started sucking.  "
+    },
+    {
+        "images": ["5a.JPG"],
+        "description": "This photo was shortly before mum and you were taken into the antenatal ward. Sally, mum, you and Crystal. Crystal was a medical student by then and she helped a lot throughout the labour process. "
     },
     {
         "images": ["6.JPG"],
@@ -52,47 +61,49 @@
     },
     {
         "images": ["7.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["8.JPG"],
-        "description": "Your first wake-up in hospital. Announcing your own arrival. "
+        "description": "Mum checked you almost every 5 minutes. She was so so proud of you. "
     },
     {
         "images": ["12a.JPG"],
-        "description": "Aldo, Zoe, Finn and Cam came in to pay a visit. Zoe, who wasn't in the photos, took several precious photos of us in the hospital. For example, the next one."
+        "description": "Aldo, Zoe, Finn and Cam came in to pay a visit. Zoe, who wasn't in the photos, took several precious photos of us in the hospital. ",
+        "created_at": "2014:05:21 14:37:00"
     },
     {
         "images": ["12.JPG"],
-        "description": "Shortly after your woke up, you gave the first poo. Yuck! "
+        "description": "Your first poo. Black tar-like meconium. Yuck! This was daddy's first nappy change. ",
+        "created_at": "2014:05:21 14:41:00"
+    },
+    {
+        "images": ["8.JPG"],
+        "description": "We put you in your first dress, this was daddy's first time putting clothes on you. "
     },
     {
         "images": ["9.JPG"],
-        "description": "The first night when dad held your little finger. "
+        "description": "The first night you kept crying and didn't know how to settle yourself yet. Daddy had you sleeping over his chest. Look how tiny your little finger was. "
     },
     {
         "images": ["10.JPG"],
-        "description": "Sally came to take blood samples. This was the first day you were back home."
-    },
-    {
-        "images": ["9a.JPG"],
-        "description": "Back home from hospital. The first week was mostly sleeping and you mulching on mum's milk."
+        "description": "The next day, we check you out first thing in the morning. Shortly after we arrived, Sally also came for her first home visit. This is she taking blood samples."
     },
     {
         "images": ["11.JPG"],
-        "description": "Do you know how hard it was to bundle you up. One of your arms would almost always escape and fling around. "
+        "description": "As young parents, mum and dad needed to learn almost everything. Simple tasks like wrapping you up proved to be quite challenging. One of your arms would almost always escape and fling around. "
     },
     {
         "images": ["8a.JPG"],
-        "description": "Your first week at home. Meg gifted this wrapper as soon as you came back home."
+        "description": " Meg Garner gifted this wrapper not soon after she heard of the wrapping challenges we had. Your grandparents, the neighbours and friends gave us a great deal of support in the early days."
+    },
+    {
+        "images": ["9a.JPG"],
+        "description": "The first week at home was mostly sleeping and mulching on mum's milk."
     },
     {
         "images": ["8c.JPG"],
-        "description": "We first tried to put you in the little bassinet that Aldo gifted us. We can take it everywhere we go so it was quite convinient but apparently you didn't like it. "
+        "description": "We struggled with your sleep in the early months. First we tried to put you in the little bassinet Aldo gave us. We can take it everywhere we go so it was quite convinient but apparently you didn't like it. "
     },
     {
         "images": ["8b.JPG"],
-        "description": "Then we tried this little bed. The theory goes that the strings that hang the little mattress will swing itself, which would help with self-soothing. No, you weren't keen either."
+        "description": "Then we tried this little bed. The theory goes that the strings that hang the little mattress will swing automatically as you wriggle around, which would help with self-soothing. No, you weren't keen either."
     },
     {
         "images": ["13.JPG", "13a.JPG"],
@@ -100,11 +111,11 @@
     },
     {
         "images": ["13b.JPG"],
-        "description": "Mum always loved how you would curl up against her chest."
+        "description": "Mum always loved how you would curl up against her chest. This was one week since you come back home. "
     },
     {
         "images": ["14.JPG"],
-        "description": "11 days after mum's last cup of chocolate at Roslyn. This was also your first outing since coming back home. "
+        "description": "11 days after mum's last cup of chocolate at Roslyn, we went back with a precious cargo with us. Everyone loved your bear outfit. This was also your first outing since coming back home. "
     },
     {
         "images": ["15.JPG"],
@@ -112,7 +123,7 @@
     },
     {
         "images": ["16.JPG"],
-        "description": "The first time you look like a little girl. "
+        "description": "We loved to try different clothes on you, which there are many as we gradually collect them over the many months leading up to your birth. This was the first time you had a delicate demeanor like a girl. "
     },
     {
         "images": ["17.JPG"],
@@ -137,7 +148,7 @@
     },
     {
         "images": ["21a.JPG", "21b.JPG"],
-        "description": "Sharon helped mum with pre-natal depression. This is her first time meeting you."
+        "description": "Sharon was a psycho-therapy intern who helped mum with her prenatal depression. This was her first time meeting you."
     },
     {
         "images": ["22.JPG"],
@@ -145,106 +156,82 @@
     },
     {
         "images": ["23.JPG"],
-        "description": "You preferred shower over bath. Look how tiny you were!"
+        "description": "You preferred shower over bath. "
     },
     {
-        "images": ["23a.JPG", "23b.JPG"],
+        "images": ["23b.JPG", "23a.JPG"],
         "description": "Mum is always gentler when it comes to help you burp."
     },
     {
         "images": ["23c.JPG", "23d.JPG"],
-        "description": "Daddy always loved to see you snuggling up, nice and cozy. "
+        "description": "One of our favourite things was to see you snuggling up, nice and cozy. The whole world seemed to have melted away. There were only you and your sweet breath. "
     },
     {
         "images": ["23m.JPG", "23n.JPG"],
-        "description": "You lifted your legs when you were about to turn one month old."
+        "description": "The first time you lifted your legs. You were about one month old."
     },
     {
         "images": ["24.JPG", "24a.JPG", "24b.JPG"],
-        "description": "One month old! Rachel Saunders gifted this little dress. This is your first dress up event."
+        "description": "One month old! Mum wanted to celebrate this by putting you in this special dress from Rachel Saunders. You looked beautiful!"
     },
     {
         "images": ["25.JPG"],
-        "description": "You just smiled back to daddy! "
+        "description": "You just smiled back. Slowly you started to establish eye contact and have interactions with us. "
     },
     {
         "images": ["25a.JPG", "25b.JPG", "25c.JPG"],
-        "description": "Your first \"tramping\" trip. This was also mum's first time having a walk outside after giving birth. She felt such a relief to get some fresh air from the ocean. When mum was pregnant with you, one of her main exercise activities was to come here and walk for a couple hundred of meters before she was exhausted and had to return. "
+        "description": "Your first \"tramping\" trip. This was also mum's first time having a walk outside after giving birth. She felt such a relief to finally get some fresh air from the ocean. When mum was pregnant with you, one of her main exercise activities was to come here and walk for a couple hundred of meters. "
     },
     {
         "images": ["26.JPG", "26a.JPG", "26b.JPG"],
-        "description": "Your first immunisation vaccination shot at the Maori Hill Clinic. You wore a little glove so that you wouldn't scratch yourself after the injection."
+        "description": "Your first immunisation vaccination shot at the Maori Hill Clinic. You were wearing a little glove so that you wouldn't scratch yourself after the injection."
     },
     {
         "images": ["27.JPG", "27a.JPG"],
-        "description": "Your first time on daddy's chair. "
-    },
-    {
+        "description": "Daddy was working with people in US and China. You were very curious about daddy's seat so one day we put you on there. "
+    }, {
         "images": ["28.JPG", "28a.JPG"],
-        "description": "Mum's first birthday as a mum. The whole family went to Nova to celebrate."
-    },
-    {
+        "description": "Mum's first birthday as a mother. The whole family went to Nova to celebrate."
+    }, {
         "images": ["29.JPG"],
-        "description": "Mum thought you wanted to fly. "
+        "description": "Mum thought you were learning to fly. "
     },
 
     {
         "images": ["30.JPG"],
-        "description": "First time you looked at iPhone with mummy. "
-    },
-    {
+        "description": "First time you looked at mum's iPhone."
+    }, {
         "images": ["31.JPG"],
-        "description": "Your first high temperature after the immunisation vaccination. We also went to the antenatal class reunion to see a roomful of babies."
-    },
-    {
+        "description": "Your first high temperature after the second immunisation shot. We also went to the antenatal class reunion to see a roomful of babies. Little grant was one of them."
+    }, {
         "images": ["32.JPG"],
-        "description": "Macintosh was kept out of the room for most of the early days. But he was very interested in checking out this little baby."
-    },
-    {
+        "description": "Macintosh was kept out of the room for most of the early days. But he was very interested in checking out this little baby when we had you on the second floor. "
+    }, {
         "images": ["33.JPG"],
         "description": "Daddy played the music box from Aldo and you liked it very much. "
-    },
-    {
+    }, {
         "images": ["33a.JPG"],
-        "description": "Snowday. Daddy took you out to have a walk and the camera man from ODT took this photo for us. "
-    },
-    {
+        "description": "Snowday. Daddy took you out to have a walk and the photographer from ODT took this photo for us. Daddy would spend significant amount of time walking around with you in the front pack. You slept well in there plus mum could have some time to rest and have a break. ",
+        "created_at": "2014-08-08 09:21:00"
+    }, {
         "images": ["34.JPG"],
-        "description": "Mum thinks you looked like a little landlord.",
+        "description": "Mum thinks you looked like a little landlord and she had one old photo of her looking quite similar. ",
         "created_at": "2014-08-13 20:21:00"
-    },
-    {
-        "images": ["35.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
-        "images": ["36a.JPG", "36b.JPG", "36c.JPG", "36.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 100th day. To our surprise, you didn't struggle much.  "
-    },
-    {
+    }, {
         "images": ["36d.JPG", "36e.JPG"],
         "description": "Your first visit to the library's wriggle and rythm session. Do you still remember the song \"It's time for us to say goodbye. It's time for us to go. Music can be so much fun. And ideas grow and grow. \""
-    },
-    {
+    }, {
         "images": ["37.JPG"],
-        "description": "Sleep baby, sleep. "
-    },
-    {
+        "description": "We can't remember exactly why you were crying but we both love how beautiful, innocent you looked with those precious teardrops. "
+    }, {
         "images": ["38.JPG", "38a.JPG", "38b.JPG"],
-        "description": "Your first haircut. According to the Chinese tradition, we gave you a haircut at the 300th day. To our surprise, you didn't struggle much.  "
+        "description": "We started to venture out to Central Otago. You would sleep well during the trip and we got to enjoy some peaceful time together. These photos were taken from one of our walking trip in Roxburgh. On our way back, mum often ended up in the back seat with you in the front pack."
+    }, {
+        "images": ["36a.JPG", "36b.JPG", "36c.JPG", "36.JPG"],
+        "description": "Your first haircut. According to the Chinese tradition, we gave you the first haircut on the 100th day. To our surprise, you didn't struggle much. "
     },
     {
-        "images": ["39.JPG"],
-        "description": "We shut the curtains most of the times so when you were ready to sleep, we can just hop onto the bed for you. It's hard to believe this photo was taken at 31am in the middle of the day. "
-    },
-
-
-    {
-        "images": ["41a.JPG", "41b.JPG", "41c.JPG"],
-        "description": "Your first train ride."
-    },
-    {
-        "images": ["40.JPG"],
-        "description": "Your first train ride."
+        "images": ["40.JPG", "41a.JPG", "41b.JPG", "41c.JPG"],
+        "description": "We celebrated your first 100 day by taking you on a train ride to Tairei Gorge. "
     }
 ]
