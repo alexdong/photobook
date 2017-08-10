@@ -1,14 +1,18 @@
 [{
-        "images": ["1.JPG"],
-        "description": "You were created on 4th September, 2013. This selfie was taken by mum when you were 5 months into conception. "
+        "images": ["2a.jpg"],
+        "description": "You were created on 4th September, 2013. The ultrasound scan image was when you were only 6-week \"old\" and tis selfie was taken by mum when you were 5 months into conception. "
     },
     {
-        "images": ["2a.jpg", "2.JPG"],
+        "images": ["2.JPG", "1.JPG"],
         "description": "What you looked like in 6-week and 20-week ultrasound scan. "
     },
     {
         "images": ["3.JPG"],
         "description": "Mum, dad and YOU on St Clair beach. Mum was about to get into the third trimester. This photo was shot by grandpa with grandma on the left. "
+    },
+    {
+        "images": [ "1a.JPG", "1b.JPG", "1c.JPG"],
+        "description": "What you looked like in 6-week and 20-week ultrasound scan. "
     },
     {
         "images": ["4a.JPG", "4a0.jpg"],
@@ -31,8 +35,8 @@
         "description": "The first family photo with your midwife Sally. "
     },
     {
-        "images": ["5d.JPG"],
-        "description": "It didn't take you long to find nipple and started sucking. "
+        "images": ["5d.JPG", "5e.JPG"],
+        "description": "It didn't take you long to find nipple and started sucking. Can you see how happy mum was? She was exhausted but she was also so excited to finally meet you. "
     },
     {
         "images": ["5c.JPG"],
