@@ -28,16 +28,13 @@
         {% for page in pages %}
             <section>
                 <div class="gallery {% if page.images|length > 1 %}multi-photos two-photos {% endif %}">
-                {% for image in page.images %}
-                <figure>
-                    <img 
-                        style="transform: rotate({{image.rotate}}deg);"
-                        data-width={{image.size[0]}} 
-                        data-height={{image.size[1]}} 
-                        src="img/{{ image.name }}" />
-                    <figcaption>{{image.name}}</figcaption>
-                </figure>
-                {% endfor %}
+                    {% for image in page.images %}
+                        <img 
+                            style="transform: rotate({{image.rotate}}deg);"
+                            data-width={{image.size[0]}} 
+                            data-height={{image.size[1]}} 
+                            src="img/{{ image.name }}" />
+                    {% endfor %}
                 </div>
                 <div class="story">
                     <p>
@@ -46,7 +43,7 @@
                 </div>
                 <p class="footer">
                     <span class="created_at">{{ page.created_at }}</span>
-                    <span class="location" data-gps="{{ page.location }}">{{page.location}} </span>
+                    <span class="page_number">{{ loop.index }}</span>
                 </p>
             </section>
         {% endfor %}
