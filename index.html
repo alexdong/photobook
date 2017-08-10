@@ -1702,6 +1702,14 @@
 
             dependencies: []
         });
+
+        // Always go to the last slide before full page reload. 
+        Reveal.addEventListener('ready', function (event) {
+            Reveal.slide(localStorage.getItem("slide"));
+        });
+        Reveal.addEventListener('slidechanged', function (event) {
+            localStorage.setItem("slide", event.indexh);
+        });
     </script>
 </body>
 
